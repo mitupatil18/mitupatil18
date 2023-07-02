@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mitupatil39@gmail.com**
 
-- 📄 Know about my experiences [on my portfolio](on my portfolio)
+- 📄 Know about my experiences [on my portfolio]
 
 - ⚡ Fun fact **I love food ;)**
 
