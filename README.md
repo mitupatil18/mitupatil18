@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mitali Patil</h1>
 <h3 align="center">A passionate problem solver and an enthusiastic learner from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.icegif.com/wp-content/uploads/minions-icegif-8.gif">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/8GjbkVyjbakAAAAd/minions-heart.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mitupatil18&label=Profile%20views&color=0e75b6&style=flat" alt="mitupatil18" /> </p>
 
 
