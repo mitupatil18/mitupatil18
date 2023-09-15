@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Frontend Development**
 
-- 👨‍💻 All of my projects are available at [https://mitali-patil-portfolio.netlify.app/](https://mitali-patil-portfolio.netlify.app/](https://mitalipatil20-portfolio-20.netlify.app/)
+- 👨‍💻 All of my projects are available at https://mitalipatil20-portfolio-20.netlify.app/
 
 - 💬 Ask me about **DSA**
 
