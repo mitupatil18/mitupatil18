@@ -4,8 +4,6 @@
 <p align="left"> <a href="https://app.daily.dev/mitu18patil"><img src="https://api.daily.dev/devcards/be15017ec20548e7a42a031937fd59bc.png?r=3yx" width="400" alt="Mitali Patil's Dev Card"/></a></p>
 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I’m currently learning **Frontend Development**
 
 - 👨‍💻 All of my projects are available at https://mitalipatil20-portfolio-20.netlify.app/
