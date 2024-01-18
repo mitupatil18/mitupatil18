@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mitali Patil</h1>
 <h3 align="center">A passionate problem solver and an enthusiastic learner from India</h3>
 <img align="right" alt="coding" width="400" src="https://m.media-amazon.com/images/I/41YGCTaLy2L._AC_UF1000,1000_QL80_.jpg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mitupatil18&label=Profile%20views&color=0e75b6&style=flat" alt="mitupatil18" /> </p>
+<p align="left"> <a href="https://app.daily.dev/mitu18patil"><img src="https://api.daily.dev/devcards/be15017ec20548e7a42a031937fd59bc.png?r=3yx" width="400" alt="Mitali Patil's Dev Card"/></a></p>
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
