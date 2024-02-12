@@ -8,7 +8,7 @@
 </p>
 
 - 🌱 I’m currently learning **Frontend Development**
-- 👨‍💻 All of my projects are available at [Portfolio](https://mitalipatil20-portfolio-20.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://stunning-scone-063108.netlify.app/)
 - 💬 Ask me about **DSA**
 - 📫 How to reach me: [mitupatil39@gmail.com](mailto:mitupatil39@gmail.com)
 - ⚡ Fun fact: **I love food:)**
