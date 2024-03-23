@@ -1,5 +1,5 @@
 # I'm Mitali Patil
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/63164037/141457544-308400e0-ef11-4a95-ace7-2057d4bf81b0.gif" width="300" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/96183163/189264372-67c43c7f-6623-4ad5-8920-a04954778056.gif" width="300" />
 
 - 🌱 I love to learn new things and building amazing websites.
 - 🧙‍♂️ Currently working learning spring Boot.
