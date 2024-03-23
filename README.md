@@ -1,41 +1,94 @@
-<h1 align="center">Hi 👋, I'm Mitali Patil</h1>
-<h3 align="center">A DSA and CP enthusiast and a passionate full stack developer from India</h3>
+# I'm Mitali Patil
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/63164037/141457544-308400e0-ef11-4a95-ace7-2057d4bf81b0.gif" width="300" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mitupatil18&label=Profile%20views&color=0e75b6&style=flat" alt="mitupatil18" /> </p>
+- 🌱 I love to learn new things and building amazing websites.
+- 🧙‍♂️ Currently working learning spring Boot.
+- 📫 How to reach me: mail me at mitupatil39@gmail.com
+- 🌐 Visit my Website: [Link](https://stunning-scone-063108.netlify.app/)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mitupatil18" alt="mitupatil18" /></a> </p>
+<br>
 
-- 🌱 I’m currently learning **Java Springboot**
+## Languages
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="40"><br>Java</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40"><br>JavaScript</td>
+    =<td align="center"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40"><br>C++</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40"><br>HTML</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40"><br>CSS</td>
+  </tr>
+</table>
 
-- 👨‍💻 All of my projects are available at [https://stunning-scone-063108.netlify.app/](https://stunning-scone-063108.netlify.app/)
+## Development Frameworks and Libraries
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" alt="React" width="40"><br>React</td>
+    <td align="center"><img src="https://vitejs.dev/logo.svg" alt="Vite" width="40"><br>Vite</td>
+  </tr>
+</table>
 
-- 💬 Ask me about **Java**
+## Databases and Cloud Platforms
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40"><br>MySQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="40"><br>SQLite</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="40"><br>Vercel</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" width="40"><br>Cloudflare</td>
+  </tr>
+</table>
 
-- 📫 How to reach me **mitupatil39@gmail.com**
+## IDEs and Tools
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="40"><br>IDEA</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="40"><br>VS Code</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="40"><br>Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40"><br>GitHub</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40"><br>Linux</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40"><br>Figma</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40"><br>Postman</td>
+  </tr>
+</table>
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1TXKoVB19-tT3iPJ2UQNalKRjnU0Q0Eih](https://drive.google.com/drive/u/0/folders/1TXKoVB19-tT3iPJ2UQNalKRjnU0Q0Eih)
+## Containerization and Deployment Tools
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40"><br>Docker</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="40"><br>GitHub Actions</td>
+  </tr>
+</table>
 
-- ⚡ Fun fact **I love food**
+## Others
+<table>
+  <tr>
+    <td>
+      <a href="https://stunning-scone-063108.netlify.app/">
+        <img align="left" alt="Portfolio" src="https://img.shields.io/badge/website-FF5151?style=for-the-badge&logo=About.me&logoColor=white" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/mitali-patil-3ab106231/">
+        <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+   
+    <td>
+      <a href="https://www.codechef.com/users/mitu18patil">
+        <img align="left" alt="Codechef" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
+      </a>
+    </td>
+    <td>
+      <a href="https://leetcode.com/mitupatil18/">
+        <img align="left" alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+      </a>
+    </td>
+    <td>
+      <a href="mailto:mitupatil39@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/dev.to/mitupatil18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to/mitupatil18" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mitali-patil-3ab106231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mitali-patil-3ab106231" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mitu18patil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mitu18patil" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mitupatil39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mitupatil39" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mitu18patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mitu18patil" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/mitupatil39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mitupatil39" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitupatil18&show_icons=true&locale=en&layout=compact" alt="mitupatil18" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mitupatil18&show_icons=true&locale=en" alt="mitupatil18" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mitupatil18&" alt="mitupatil18" /></p>
+|---|---|
