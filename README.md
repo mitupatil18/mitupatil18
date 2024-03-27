@@ -58,37 +58,7 @@
   </tr>
 </table>
 
-## Others
-<table>
-  <tr>
-    <td>
-      <a href="https://stunning-scone-063108.netlify.app/">
-        <img align="left" alt="Portfolio" src="https://img.shields.io/badge/website-FF5151?style=for-the-badge&logo=About.me&logoColor=white" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.linkedin.com/in/mitali-patil-3ab106231/">
-        <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-    </td>
-   
-    <td>
-      <a href="https://www.codechef.com/users/mitu18patil">
-        <img align="left" alt="Codechef" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
-      </a>
-    </td>
-    <td>
-      <a href="https://leetcode.com/mitupatil18/">
-        <img align="left" alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-      </a>
-    </td>
-    <td>
-      <a href="mailto:mitupatil39@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
+
 
 
 |---|---|
